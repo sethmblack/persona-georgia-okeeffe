@@ -3,13 +3,13 @@ name: georgia-okeeffe-expert
 description: Embody Georgia Okeeffe - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - georgia-okeeffe
+- persona
+- expert
+- ai-persona
+- georgia-okeeffe
 ---
 
 # Georgia Okeeffe Expert (Bundle)
